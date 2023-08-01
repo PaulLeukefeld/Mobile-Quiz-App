@@ -13,7 +13,7 @@ Welcome to the Mobile Quiz App repository! This mobile application is built usin
 6. 🛡️ [Security](#security)
 7. 📱 [Compatibility](#compatibility)
 
-## Screens
+## Screens 📄
 The Mobile Quiz App consists of the following three screens:
 
 1. **User Screen**: This screen allows users to view their profiles and update their account settings. Users can view and manage their personal information and preferences from this screen.
@@ -22,7 +22,7 @@ The Mobile Quiz App consists of the following three screens:
 
 3. **Ranking Screen**: On this screen, users can see how they compare against other users in terms of their quiz scores. The app displays a leaderboard showcasing the top-performing users.
 
-## Firebase Integration
+## Firebase Integration 🔥
 The app utilizes Firebase services to enhance its functionality:
 
 1. **Firestore Database**: The Firestore database stores the quiz questions, including categories, questions, options, and correct answers. This allows users to access various quizzes and keeps the content up-to-date.
@@ -31,7 +31,7 @@ The app utilizes Firebase services to enhance its functionality:
 
 3. **Firebase Crashlytics**: Firebase Crashlytics is integrated to monitor the app for crashes and exceptions. This helps the development team identify and fix issues to improve app stability.
 
-## Installation
+## Installation 🚀
 To run the Mobile Quiz App on your local machine, follow these steps:
 
 1. Clone the repository:
@@ -59,16 +59,16 @@ To run the Mobile Quiz App on your local machine, follow these steps:
    flutter run
    ```
 
-## Images
+## Images 📷
 Here are some screenshots of the Mobile Quiz App:
 
 [// Insert relevant app screenshots here]
 
-## Performance
+## Performance 📈
 The Mobile Quiz App is designed to be fast and responsive, providing users with a seamless experience. The app is optimized for performance, with efficient code and minimal resource usage. The app also makes use of caching and other techniques to reduce load times and improve performance.
 
-## Security
+## Security 🛡️
 The Mobile Quiz App takes security seriously, with robust measures in place to protect user data and prevent unauthorized access. The app uses Firebase Authentication to securely authenticate users, and all user data is stored securely in the Firestore database. The app also makes use of encryption and other security techniques to protect sensitive data.
 
-## Compatibility
+## Compatibility 📱
 The Mobile Quiz App is designed to be compatible with a wide range of devices and operating systems. The app is built using Flutter, which allows it to run on both iOS and Android devices seamlessly. The app is also designed to be responsive, adapting to different screen sizes and orientations.
