@@ -62,7 +62,34 @@ To run the Mobile Quiz App on your local machine, follow these steps:
 ## Images 📷
 Here are some screenshots of the Mobile Quiz App:
 
-[// Insert relevant app screenshots here]
+<div style="display:flex; flex-direction:row;">
+    <div style="margin-right:10px;">
+        <img src="readme_images/IMG_2423.PNG" width="200" alt="Game selection screen">
+        <p style="text-align:center;">Game Selection Screen</p>
+    </div>
+    <div>
+        <img src="readme_images/IMG_2428.PNG" width="200" alt="Quiz game screen">
+        <p style="text-align:center;">Quiz game screen Screen</p>
+    </div>
+</div>
+
+<div style="display: flex; flex-direction: row;">
+    <div>
+        <img src="readme_images/IMG_2429.PNG" width="200" alt="User account screen">
+        <p style="text-align:center;">User account Screen</p>
+    </div>
+    <div style="margin-left: 10px;">
+        <img src="readme_images/IMG_2433.PNG" width="200" alt="Game introduction screen">
+        <p style="text-align:center;">Game introduction Screen</p>
+    </div>
+</div>
+
+<div style="display: flex; flex-direction: row;">
+    <div>
+        <img src="readme_images/IMG_2429.PNG" width="200" alt="User account screen">
+        <p style="text-align:center;">Onboarding Screen</p>
+    </div>
+</div>
 
 ## Performance 📈
 The Mobile Quiz App is designed to be fast and responsive, providing users with a seamless experience. The app is optimized for performance, with efficient code and minimal resource usage. The app also makes use of caching and other techniques to reduce load times and improve performance.
